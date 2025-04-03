@@ -1,0 +1,9 @@
+[package]
+name = "regname"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iocraft = "0.7.4"
+regex = "1.11.1"
+smol = "2.0.2"
